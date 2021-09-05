@@ -1,2 +1,1 @@
-# Algos
-Data Structures and Algorithms
+# data-structures-and-algorithms
